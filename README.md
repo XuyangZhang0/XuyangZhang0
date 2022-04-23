@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-**XuyangZhang0/XuyangZhang0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **XuyangZhang0/XuyangZhang0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
+<!-- Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on learning Full Stack Development.
 - 🌱 I’m currently learning **Node.js**
